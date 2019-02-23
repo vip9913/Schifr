@@ -1,0 +1,9 @@
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Шифрование\schifr\schifr\bin\Debug\schifr.exe.config
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Шифрование\schifr\schifr\bin\Debug\schifr.exe
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Шифрование\schifr\schifr\bin\Debug\schifr.pdb
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Шифрование\schifr\schifr\obj\Debug\schifr.csprojResolveAssemblyReference.cache
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Шифрование\schifr\schifr\obj\Debug\schifr.FormSchifr.resources
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Шифрование\schifr\schifr\obj\Debug\schifr.Properties.Resources.resources
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Шифрование\schifr\schifr\obj\Debug\schifr.csproj.GenerateResource.Cache
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Шифрование\schifr\schifr\obj\Debug\schifr.exe
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Шифрование\schifr\schifr\obj\Debug\schifr.pdb
